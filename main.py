@@ -185,7 +185,6 @@ async def start(event):
                       ]
                     ),
                     link_preview=False)
-                                                  link_preview=False)
 
 ################### VERİTABANI VERİ GİRİŞ ÇIKIŞI #########################
     async def add_user(self, id): # Veritabına yeni kullanıcı eklemek için ön def
